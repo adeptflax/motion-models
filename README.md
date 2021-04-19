@@ -9,7 +9,7 @@ To the extent possible under law, adeptflax has waived all copyright and related
 
 ## First Order Model (512x512 pixels)
 
-It was trained using this script: https://github.com/AliaksandrSiarohin/first-order-model
+It was trained using this script and more info can be found there: https://github.com/AliaksandrSiarohin/first-order-model
 
 Model, config, and examples can be downloaded here: https://www.mediafire.com/folder/e6ikqpr3eegxf/first-order-model
 
