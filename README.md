@@ -17,5 +17,4 @@ This model was trained on rtx 3090 for 5 days on vast.ai. 2 gpus didn't seem to 
 
 ## Motion Cosegmentation (512x512 pixels)
 
-I'm going to train a 512x512 face swap model with this: https://github.com/AliaksandrSiarohin/motion-cosegmentation
-I'm going to start training the model shortly and I will release it once it's finished.
+It seems a First Order Model can be use with https://github.com/AliaksandrSiarohin/motion-cosegmentation. I'll post details later.
